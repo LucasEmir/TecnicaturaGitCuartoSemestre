@@ -1,0 +1,48 @@
+Briefing
+
+1. Descripción del cliente/producto(descripción página)
+2. Objetivos
+3. Audiencia Objetivo
+4. Competencia (Con quien compite)
+5. Distribución (Como llegara a los usuarios, ej una web)
+6. Cronograma 
+ -Distribución de objetivos
+ -Contenido y diagrama de navegación
+ -Wireframes:
+ -Línea gráfica
+ -Propuesta de diseño
+ -Desarrollo web y pruebas
+ -Demo y entrega final
+Detalles de la etapas (del cronograma)
+
+7. Que tecnologías serán usadas tanto en el front como en el back
+
+-----------------------------------------------------------------------
+Ejemplo 2
+
+1. Objetivo
+2. Descripción
+3. Público objetivo (a quién va dirigido)
+4. Funcionalidades del sitio
+5. Plazos
+6. Equipo(Diseño web, desarrolladores etc.)
+7. Métricas de éxito (ej. N° de visitantes diarios, ventas)
+8. Competidores
+9. Stack tecnológico (Lenguaje, base de datos, framework, servidor web)
+10. Estructura del sitio
+11. Diseño
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
