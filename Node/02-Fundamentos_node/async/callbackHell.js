@@ -37,6 +37,8 @@ hola("Emir", function(nombre) {
         console.log("Termiando el proceso...");
     });
 });
+
+
 // hola("Emir", function (nombre) {
 //   hablar(function () {
 //     hablar(function () {
